@@ -5,7 +5,7 @@
 # Site
 title: OUREXISTS的博客
 subtitle: '时代发展太快，技术牛马一生'
-description: '集中技术分享'
+description: '一个热爱摄影的软件工程师'
 keywords: springcloud,java,spring,springboot
 author: OUREXISTS
 language: zh-CN
@@ -99,7 +99,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: butterfly
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment

@@ -1,7 +1,13 @@
 ---
 title: SpringAi+Ollama+Qdrant的本地RAG知识库搭建
+tags:
+  - ai
+  - 知识库
+categories:
+  - [ 技术文章, 人工智能 ]
+top_img: /img/top.png
 ---
-
+技术博客
 ### 一、技术选型
 
 JAVA21、spring AI 1.0.0-M6、Qdrant v1.14.1、Ollama 0.9.0
@@ -196,12 +202,10 @@ services:
 #### 服务测验
 
 1. 新增知识库内容
-   
-   > GET http://localhost:10021/open/ai/save?content="Qdrant 是一个开源的向量数据库，支持高效的相似性搜索。它采用余弦相似度和欧氏距离等多种距离函数。Qdrant 适合用于语义搜索、推荐系统和机器学习场景。Spring AI 是一个基于 Spring Boot 的 AI 框架，支持调用 OpenAI、Qdrant 等多种 AI 服务。它内置了 EmbeddingModel，可方便地将文本转成向量。"
+   > GET http://localhost:10021/open/ai/save?content="Qdrant是一个开源的向量数据库，支持高效的相似性搜索。它采用余弦相似度和欧氏距离等多种距离函数。Qdrant 适合用于语义搜索、推荐系统和机器学习场景。Spring AI 是一个基于 Spring Boot 的 AI 框架，支持调用 OpenAI、Qdrant 等多种 AI 服务。它内置了 EmbeddingModel，可方便地将文本转成向量。"
 
 2. 问答
-   
-   > GET http://localhost:10021/open/ai/ask?question=Qdrant是什么?
+   > GET http://localhost:10021/open/ai/ask?question=Qdrant是什么?  
 
 ## 三、踩坑注意
 
