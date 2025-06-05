@@ -91,7 +91,7 @@ tag_img:
 tag_per_img:
 
 # Note: category page, not categories page
-category_img:
+category_img: /img/top.png
 
 # The banner image of category page, you can set the banner image for each category
 # Format:

@@ -2,7 +2,7 @@
 title: SpringAi+Ollama+Qdrant的本地RAG知识库搭建
 tags:
   - ai
-  - 知识库
+  - RAG
 categories:
   - [ 人工智能, RAG ]
 top_img: /img/top.png
@@ -34,7 +34,7 @@ services:
 
 安装成功打开控制台`http://localhost:6333/dashboard`,可以看见如下界面：
 
-![1749003087361.jpg](qdrant-panel.jpg)
+![qdrant-panel.jpg](rag/qdrant-panel.jpg)
 
 #### Ollama安装
 
