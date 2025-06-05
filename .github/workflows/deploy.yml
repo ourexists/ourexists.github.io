@@ -1,0 +1,40 @@
+name: Deploy Hexo Blog
+
+on:
+  push:
+    branches:
+      - main  # 监听 main 分支，你可改为你的源码分支
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout source code
+        uses: actions/checkout@v4
+        with:
+          submodules: true  # 确保主题子模块被拉取
+          fetch-depth: 0    # 允许部署插件使用 git 历史
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'  # 建议使用 Node.js 18 或 20
+
+      - name: Install dependencies
+        run: |
+          npm install -g hexo-cli
+          npm install
+
+      - name: Generate static files
+        run: |
+          hexo clean
+          hexo generate
+
+      - name: Deploy to GitHub Pages
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          npx hexo deploy
