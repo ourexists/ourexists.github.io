@@ -6,6 +6,7 @@ tags:
 categories:
   - [ 人工智能, RAG ]
 top_img: /img/top.png
+cover: /img/ai.jpg
 ---
 技术博客
 ### 一、技术选型

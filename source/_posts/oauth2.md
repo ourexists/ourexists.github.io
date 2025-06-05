@@ -6,11 +6,12 @@ tags:
 categories:
   - [ 后端技术, Spring生态 ]
 top_img: /img/top.png
+cover: /img/springboot.png
 ---
 
 ### 一、环境生态
 
- Java17+, springcloud 2024.0.1, spring-boot3.4.6, OAuth2 6.4.x
+Java17+, springcloud 2024.0.1, spring-boot3.4.6, OAuth2 6.4.x
 
 ### 二、公共基础依赖
 

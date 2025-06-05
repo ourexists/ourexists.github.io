@@ -56,7 +56,7 @@ code_blocks:
 # Formal:
 #   icon: link || the description || color
 social:
-  fab fa-github: https://github.com/434713950 || Github || '#24292e'
+  fab fa-github: https://github.com/ourexists || Github || '#24292e'
 # fas fa-envelope: mailto:xxxxxx@gmail.com || Email || '#4a7dbe'
 
 # --------------------------------------
@@ -158,7 +158,7 @@ index_top_img_height:
 
 # The subtitle on homepage
 subtitle:
-  enable: false
+  enable: true
   # Typewriter Effect
   effect: true
   # Customize typed.js
@@ -297,7 +297,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/434713950
+      link: https://github.com/ourexists
   card_announcement:
     enable: false
     content: 我的新博客
@@ -629,7 +629,7 @@ comments:
 # Giscus
 # https://giscus.app/
 giscus:
-  repo: 434713950/434713950.github.io
+  repo: ourexists/ourexists.github.io
   repo_id: R_kgDOO11h5A
   category_id: DIC_kwDOO11h5M4CrBxT
   theme:
