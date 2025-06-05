@@ -271,9 +271,9 @@ footer:
   owner:
     enable: true
     since: 2025
-  custom_text: this is ourexists blog
+  custom_text: soulitude in aestheticsrn
   # Copyright of theme and framework
-  copyright: true
+  copyright: false
 
 # --------------------------------------
 # Aside Settings
