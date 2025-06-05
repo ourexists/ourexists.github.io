@@ -30,11 +30,15 @@ jobs:
         run: |
           hexo clean
           hexo generate
-
-      - name: Deploy to GitHub Pages
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          npx hexo deploy
+      - name: Deploy with gh-pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GH_TOKEN }}
+          publish_dir: ./public
+#      - name: Deploy to GitHub Pages
+#        env:
+#          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+#        run: |
+#          git config --global user.name "github-actions[bot]"
+#          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+#          npx hexo deploy
