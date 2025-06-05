@@ -511,7 +511,7 @@ search:
 share:
   # Choose: sharejs / addtoany
   # Leave it empty if you don't need share
-  use: sharejs
+  use: addtoany
 
   # Share.js
   # https://github.com/overtrue/share.js
