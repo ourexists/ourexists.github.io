@@ -4,7 +4,7 @@ tags:
   - ai
   - 知识库
 categories:
-  - [ 技术文章, 人工智能 ]
+  - [ 人工智能, RAG ]
 top_img: /img/top.png
 ---
 技术博客

@@ -4,7 +4,7 @@ tags:
   - Springboot3
   - OAuth2
 categories:
-  - [ 技术文章, Spring生态 ]
+  - [ 后端技术, Spring生态 ]
 top_img: /img/top.png
 ---
 
