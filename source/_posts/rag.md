@@ -8,7 +8,6 @@ categories:
 top_img: /img/top.png
 cover: /img/ai.jpg
 ---
-技术博客
 ### 一、技术选型
 
 JAVA21、spring AI 1.0.0-M6、Qdrant v1.14.1、Ollama 0.9.0
@@ -35,7 +34,7 @@ services:
 
 安装成功打开控制台`http://localhost:6333/dashboard`,可以看见如下界面：
 
-![qdrant-panel.jpg](rag/qdrant-panel.jpg)
+![qdrant-panel.jpg](qdrant-panel.jpg)
 
 #### Ollama安装
 
