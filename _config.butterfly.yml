@@ -18,8 +18,7 @@ nav:
 
 menu:
  Home: / || fas fa-home
- 标签: /tags/ || fas fa-tags
- 技术博客: /jishu/ || fas fa-folder-open
+ 技术博客: /jishu/ || fas fa-tags
  摄影影集: /photo/ || fas fa-images
 # 说说: /shuoshuo/ || fas fa-link
 # 清單||fa fa-heartbeat:
