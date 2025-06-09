@@ -8,6 +8,8 @@ categories:
   - [ 人工智能, AIGC ]
 top_img: /img/top.png
 cover: /img/ai.jpg
+series: ComfyUI
+series_order: 1
 ---
 
 > 注意： 因为内部所有的生态皆依赖于github开源社区，进行资源下载时最好挂上梯子。
