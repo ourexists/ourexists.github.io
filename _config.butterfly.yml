@@ -19,7 +19,7 @@ nav:
 menu:
  Home: / || fas fa-home
  技术博客: /jishu/ || fas fa-tags
- 开源项目: /project/ || fas fa-heartbeat
+# 开源项目: /project/ || fas fa-heartbeat
  摄影影集: /gallery/ || fas fa-images
  经典文案: /shuoshuo/ || fas fa-video
 # 说说: /shuoshuo/ || fas fa-link
@@ -301,8 +301,8 @@ aside:
       text: Follow Me
       link: https://github.com/ourexists
   card_announcement:
-    enable: false
-    content: 我的新博客
+    enable: true
+    content: 摄影图集由于本地网络环境还未完全构建,暂时无法博客内部访问.<a href='http://d20g828603.iok.la/'>可直接访问图集地址</a> </br> 同时由于与公司仲裁中,防止公司恶意手段,开源项目暂且关闭。
   card_recent_post:
     enable: true
     # If set 0 will show all
