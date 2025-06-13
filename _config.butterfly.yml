@@ -302,7 +302,7 @@ aside:
       link: https://github.com/ourexists
   card_announcement:
     enable: true
-    content: 摄影图集由于本地网络环境还未完全构建,暂时无法博客内部访问.<a href='http://d20g828603.iok.la/'>可直接访问图集地址</a> </br> 同时由于与公司仲裁中,防止公司恶意手段,开源项目暂且关闭。
+    content: 摄影图集由于本地网络环境还未完全构建,暂时无法博客内部访问.<a href='http://d20g828603.iok.la/'>可直接访问图集地址</a>
   card_recent_post:
     enable: true
     # If set 0 will show all
