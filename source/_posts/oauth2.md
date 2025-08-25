@@ -490,7 +490,3 @@ public class WebClientConfig {
     }
 }
 ```
-
-### 开源项目参考
-
-* 应用场景和设计理念可以参考我个人的开源框架 [era:2024.0.1-dev](https://gitee.com/ourexists/era/tree/2024.0.1-dev/)
