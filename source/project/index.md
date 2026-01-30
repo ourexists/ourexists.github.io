@@ -10,11 +10,15 @@ aside: false
   link_list:
     - name: ERA
       link: http://gitee.com/ourexists/era
-      avatar: /img/project-card.jpg
-      descr: 基于springboot生态的多租户微服务体系
-- class_name: 项目展示 
+      avatar: /img/icon.png
+      descr: 基于springboot3.x+java21生态的多租户微服务后端统一处理框架
+- class_name: 项目建设 
   link_list:
-    - name: 逐步开放
-      avatar: /img/project-card.jpg
-      descr: ......
+    - name: OMES-ADMIN
+      link: http://22x2097c96.imwork.net/
+      avatar: /img/icon.png
+      descr: 工业化设备的几种管理数据采集平台。
+    - name: OMES智设备
+      avatar: /img/icon.png
+      descr: OMES的小程序及app应用版本。
 {% endflink %}

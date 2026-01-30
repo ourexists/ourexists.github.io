@@ -19,7 +19,7 @@ nav:
 menu:
  Home: / || fas fa-home
  技术博客: /jishu/ || fas fa-tags
-# 开源项目: /project/ || fas fa-heartbeat
+ 开源项目: /project/ || fas fa-heartbeat
  摄影影集: /gallery/ || fas fa-images
  经典文案: /shuoshuo/ || fas fa-video
 # 说说: /shuoshuo/ || fas fa-link
