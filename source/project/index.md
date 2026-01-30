@@ -19,7 +19,7 @@ aside: false
 - class_name: 项目建设 
   link_list:
     - name: OMES-ADMIN
-      link: http://22x2097c96.imwork.net/
+      link: https://222qc09hk796.vicp.fun
       avatar: /img/icon.png
       descr: 工业化设备的几种管理数据采集平台。
     - name: OMES智设备
