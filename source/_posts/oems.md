@@ -56,59 +56,59 @@ cover: /img/bg.jpg
 ### 三、OMES功能展示
 #### OMES-ADMIN管理平台 
 > 运营模块-设备首页概况
-![admin-overview.png](/img/omes/admin-overview.png)
-![admin-overview2.png](/img/omes/admin-overview2.png)
+![admin-overview.png](admin-overview.png)
+![admin-overview2.png](admin-overview2.png)
 
 > 运营模块-设备实时在线卡片
-![admin-equip.png](/img/omes/admin-equip.png)
-![admin-equip-2.png](/img/omes/admin-equip-2.png)
-![admin-equip-3.png](/img/omes/admin-equip-3.png)
-![admin-equip-4.png](/img/omes/admin-equip-4.png)
+![admin-equip.png](admin-equip.png)
+![admin-equip-2.png](admin-equip-2.png)
+![admin-equip-3.png](admin-equip-3.png)
+![admin-equip-4.png](admin-equip-4.png)
 
 > 运营模块-设备GIS在线展示
-![admin-gis-1.png](/img/omes/admin-gis-1.png)
-![admin-gis-2.png](/img/omes/admin-gis-2.png)
+![admin-gis-1.png](admin-gis-1.png)
+![admin-gis-2.png](admin-gis-2.png)
 
 > 运营模块-场景组态画面
-![admin-scada.png](/img/omes/admin-scada.png)
+![admin-scada.png](admin-scada.png)
 
 > 数据报表-设备运行态采集
-![report-run.png](/img/omes/report-run.png)
-![report-online.png](/img/omes/report-online.png)
-![report-alarm.png](/img/omes/report-alarm.png)
+![report-run.png](report-run.png)
+![report-online.png](report-online.png)
+![report-alarm.png](report-alarm.png)
 
 > 数据报表-动态化场景数据采集
-![workshop-report.png](/img/omes/workshop-report.png)
-![workshop-report-2.png](/img/omes/workshop-report-2.png) 
+![workshop-report.png](workshop-report.png)
+![workshop-report-2.png](workshop-report-2.png) 
 
 > 管理配置-设备
-![img.png](/img/omes/set-equip.png)
-![img.png](/img/omes/config-equip.png)
+![img.png](set-equip.png)
+![img.png](config-equip.png)
 
 > 管理配置-场景
-![img.png](/img/omes/config-workshop.png)
-![img.png](/img/omes/scada-workshop.png)
+![img.png](config-workshop.png)
+![img.png](scada-workshop.png)
 
 > 管理配置-账户角色
-![img.png](/img/omes/admin-account.png)
-![img.png](/img/omes/admin-role.png)
-![img.png](/img/omes/admin-role2.png)
+![img.png](admin-account.png)
+![img.png](admin-role.png)
+![img.png](admin-role2.png)
 
 > 管理配置-系统通知
-![img.png](/img/omes/admin-notify.png)
+![img.png](admin-notify.png)
 
 #### OMES智设备（微信小程序/APP）
 > 设备呈现
-![img.png](/img/omes/app-equp1.png)
-![img.png](/img/omes/app-equip3.png)
-![img.png](/img/omes/app-equip4.png)
-![img.png](/img/omes/app-equip5.png)
+![img.png](app-equp1.png)
+![img.png](app-equip3.png)
+![img.png](app-equip4.png)
+![img.png](app-equip5.png)
 
 > 场景组态
-![img.png](/img/omes/app-workshop3.png)
-![img.png](/img/omes/app-workshop1.png)
-![img.png](/img/omes/app-workshop2.png)
+![img.png](app-workshop3.png)
+![img.png](app-workshop1.png)
+![img.png](app-workshop2.png)
 > 报警消息
-![img.png](/img/omes/app-message1.png)
-![img.png](/img/omes/app-message2.png)
-![img.png](/img/omes/app-message3.png)
+![img.png](app-message1.png)
+![img.png](app-message2.png)
+![img.png](app-message3.png)
