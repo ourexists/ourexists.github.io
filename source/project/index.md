@@ -12,6 +12,10 @@ aside: false
       link: http://gitee.com/ourexists/era
       avatar: /img/icon.png
       descr: 基于springboot3.x+java21生态的多租户微服务后端统一处理框架
+    - name: layui-extand
+      link: https://gitee.com/ourexists/layui-extand
+      avatar: /img/icon.png
+      descr: 对layui的一些扩展
 - class_name: 项目建设 
   link_list:
     - name: OMES-ADMIN
