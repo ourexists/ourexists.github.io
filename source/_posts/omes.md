@@ -6,7 +6,7 @@ categories:
   - [ 工业化 ]
 top_img: /img/top.png
 cover: /img/bg.jpg
-date: 2026-01-29 12:00:00
+date: 2026-01-30 12:00:00
 ---
 
 ### 一、背景
