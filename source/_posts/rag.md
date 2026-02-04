@@ -7,7 +7,7 @@ categories:
   - [ 人工智能, RAG ]
 top_img: /img/top.png
 cover: /img/ai.jpg
-date: 2026-06-05 00:00:00
+date: 2025-06-05 00:00:00
 ---
 ### 一、技术选型
 
