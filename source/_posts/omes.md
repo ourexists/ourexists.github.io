@@ -55,60 +55,62 @@ cover: /img/bg.jpg
 
 ### 三、OMES功能展示
 #### OMES-ADMIN管理平台 
-> 运营模块-设备首页概况
-![admin-overview.png](admin-overview.png)
+###### 首页数据视图
+>![admin-overview.png](admin-overview.png)
 ![admin-overview2.png](admin-overview2.png)
 
-> 运营模块-设备实时在线卡片
-![admin-equip.png](admin-equip.png)
+###### 设备-实时在线卡片
+>![admin-equip.png](admin-equip.png)
 ![admin-equip-2.png](admin-equip-2.png)
 ![admin-equip-3.png](admin-equip-3.png)
 ![admin-equip-4.png](admin-equip-4.png)
 
-> 运营模块-设备GIS在线展示
+###### 设备-动态化数据采集配置
+>![img.png](config-equip.png)
+
+###### 设备-GIS在线展示
+>![img.png](set-equip.png)
 ![admin-gis-1.png](admin-gis-1.png)
 ![admin-gis-2.png](admin-gis-2.png)
 
-> 运营模块-场景组态画面
-![admin-scada.png](admin-scada.png)
-
-> 数据报表-设备运行态采集
-![report-run.png](report-run.png)
+###### 设备-设备运行态数据采集
+>![report-run.png](report-run.png)
 ![report-online.png](report-online.png)
 ![report-alarm.png](report-alarm.png)
 
-> 数据报表-动态化场景数据采集
-![workshop-report.png](workshop-report.png)
-![workshop-report-2.png](workshop-report-2.png) 
+###### 场景-配置化组态画面
+> ![img.png](scada-workshop.png)
+![admin-scada.png](admin-scada.png)
 
-> 管理配置-设备
-![img.png](set-equip.png)
-![img.png](config-equip.png)
+###### 场景-动态化数据采集
+>![img.png](config-workshop.png)
+![workshop-report-2.png](workshop-report-2.png)
 
-> 管理配置-场景
-![img.png](config-workshop.png)
-![img.png](scada-workshop.png)
-
-> 管理配置-账户角色
-![img.png](admin-account.png)
+###### 权限-账户角色
+>![img.png](admin-account.png)
 ![img.png](admin-role.png)
 ![img.png](admin-role2.png)
 
-> 管理配置-系统通知
-![img.png](admin-notify.png)
+###### 消息-系统通知|报警通知
+>![img.png](admin-notify.png)
 
 #### OMES智设备（微信小程序/APP）
-> 设备呈现
-![img.png](app-equp1.png)
+###### 设备
+>![img.png](app-equp1.png)
 ![img.png](app-equip3.png)
 ![img.png](app-equip4.png)
 ![img.png](app-equip5.png)
 
-> 场景组态
-![img.png](app-workshop3.png)
+###### 场景
+>![img.png](app-workshop3.png)
 ![img.png](app-workshop1.png)
 ![img.png](app-workshop2.png)
-> 报警消息
-![img.png](app-message1.png)
+
+###### 消息
+>![img.png](app-message1.png)
 ![img.png](app-message2.png)
 ![img.png](app-message3.png)
+
+### 联系我
+个人开发者，接工业化相关定制开发。
+微信: ty434713950
