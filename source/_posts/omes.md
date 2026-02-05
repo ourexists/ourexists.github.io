@@ -117,70 +117,70 @@ OMES是一款产品化 + 本地化部署的工业设备运营管理平台，旨�
 ### 五、OMES功能展示
 
 #### 1. OMES-ADMIN管理平台
-###### 自适应设备大屏
+##### 自适应设备大屏
 > ![img.png](admin-screen.png)
 
-###### 首页数据视图
+##### 首页数据视图
 > ![admin-overview.png](admin-overview.png)
 ![admin-overview2.png](admin-overview2.png)
 
-###### 设备-实时在线卡片
+##### 设备-实时在线卡片
 
 > ![admin-equip.png](admin-equip.png)
 ![admin-equip-2.png](admin-equip-2.png)
 ![admin-equip-3.png](admin-equip-3.png)
 ![admin-equip-4.png](admin-equip-4.png)
 
-###### 设备-动态化数据采集配置
+##### 设备-动态化数据采集配置
 
 > ![img.png](config-equip.png)
 
-###### 设备-GIS在线展示
+##### 设备-GIS在线展示
 
 > ![img.png](set-equip.png)
 ![admin-gis-1.png](admin-gis-1.png)
 ![admin-gis-2.png](admin-gis-2.png)
 
-###### 设备-设备运行态数据采集
+##### 设备-设备运行态数据采集
 
 > ![report-run.png](report-run.png)
 ![report-online.png](report-online.png)
 ![report-alarm.png](report-alarm.png)
 
-###### 场景-配置化组态画面
+##### 场景-配置化组态画面
 
 > ![img.png](scada-workshop.png)
 ![admin-scada.png](admin-scada.png)
 
-###### 场景-动态化数据采集
+##### 场景-动态化数据采集
 
 > ![img.png](config-workshop.png)
 ![workshop-report-2.png](workshop-report-2.png)
 
-###### 权限-账户角色
+##### 权限-账户角色
 
 > ![img.png](admin-account.png)
 ![img.png](admin-role.png)
 ![img.png](admin-role2.png)
 
-###### 消息-系统通知|报警通知
+##### 消息-系统通知|报警通知
 
 > ![img.png](admin-notify.png)
 
 #### 2. OMES智设备（微信小程序/APP）
-###### 设备
+##### 设备
 > ![img.png](app-equp1.png)
 ![img.png](app-equip3.png)
 ![img.png](app-equip4.png)
 ![img.png](app-equip5.png)
 
-###### 场景
+##### 场景
 
 > ![img.png](app-workshop3.png)
 ![img.png](app-workshop1.png)
 ![img.png](app-workshop2.png)
 
-###### 消息
+##### 消息
 
 > ![img.png](app-message1.png)
 ![img.png](app-message2.png)
