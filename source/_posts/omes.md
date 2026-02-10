@@ -156,8 +156,7 @@ OMES是一款产品化 + 本地化部署的工业设备运营管理平台，旨�
 
 ##### 场景-配置化组态画面
 
-> ![img.png](scada-workshop.png)
-![admin-scada.png](admin-scada.png)
+> ![admin-scada.png](admin-scada.png)
 
 ##### 场景-动态化数据采集
 
@@ -181,6 +180,7 @@ OMES是一款产品化 + 本地化部署的工业设备运营管理平台，旨�
 > ![img.png](app-equp1.png)
 ![img.png](app-equip3.png)
 ![img.png](app-equip4.png)
+![img.png](app-equip6.png)
 ![img.png](app-equip5.png)
 
 ##### 场景
