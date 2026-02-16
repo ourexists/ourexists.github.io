@@ -131,14 +131,11 @@ OMES是一款产品化 + 本地化部署的工业设备运营管理平台，旨�
 ##### 首页数据视图
 
 > ![admin-overview.png](admin-overview.png)
-![admin-overview2.png](admin-overview2.png)
 
 ##### 设备-实时在线卡片
 
 > ![admin-equip.png](admin-equip.png)
-![admin-equip-2.png](admin-equip-2.png)
-![admin-equip-3.png](admin-equip-3.png)
-![admin-equip-4.png](admin-equip-4.png)
+![admin-equip-1.png](admin-equip-1.png)
 
 ##### 设备-动态化数据采集配置
 
@@ -148,7 +145,6 @@ OMES是一款产品化 + 本地化部署的工业设备运营管理平台，旨�
 
 > ![img.png](set-equip.png)
 ![admin-gis-1.png](admin-gis-1.png)
-![admin-gis-2.png](admin-gis-2.png)
 
 ##### 设备-设备运行态数据采集
 
@@ -177,10 +173,10 @@ OMES是一款产品化 + 本地化部署的工业设备运营管理平台，旨�
 
 ##### 设备
 
-> ![img.png](app-equp1.png)
+> ![img.png](app-equip1.png)
+![img.png](app-equip2.png)
 ![img.png](app-equip3.png)
 ![img.png](app-equip4.png)
-![img.png](app-equip6.png)
 ![img.png](app-equip5.png)
 
 ##### 场景
