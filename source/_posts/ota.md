@@ -23,8 +23,6 @@ OTA（Over-The-Air）是指通过网络远程为设备更新：
 
 **没有 OTA 的工业系统，基本无法规模化运营。**
 
-![工业OTA升级示意图](images/ota-overview.png)
-
 ---
 
 # 二、工业 OTA 的典型应用场景
