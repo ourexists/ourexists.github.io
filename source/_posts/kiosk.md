@@ -1,9 +1,10 @@
 ---
 title: 工业终端单应用锁屏实现（工业 Kiosk 模式应用）
 tags:
-  - 工业化
+  - 工业物联网
+  - os
 categories:
-  - [ 工业化, OS ]
+  - [ 工业物联网 ]
 top_img: /img/top.png
 cover: /img/bg.jpg
 date: 2026-02-24 00:00:00
