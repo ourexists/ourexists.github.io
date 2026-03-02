@@ -3,7 +3,7 @@ title: 适用于工业化中小项目场景的设备管理系统OMES
 tags:
   - 工业化
 categories:
-  - [ 工业化 ]
+  - [ 工业物联网 ]
 top_img: /img/top.png
 cover: /img/bg.jpg
 date: 2026-01-30 12:00:00
