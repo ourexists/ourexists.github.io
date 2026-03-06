@@ -9,7 +9,7 @@ categories:
   - [ 工业物联网 ]
 top_img: /img/top.png
 cover: /img/springboot.png
-date: 2025-08-25 00:00:00
+date: 2026-03-26 00:00:00
 ---
 
 # 工业数字化的真实世界：为什么 MES 经常失败，而工业网关却更赚钱
