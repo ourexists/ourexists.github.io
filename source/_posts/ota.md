@@ -104,7 +104,7 @@ OTA API服务
 ```
 
 ⭐ 架构流程图
-![img.png](img.png)
+![img.png](xj/img.png)
 
 ---
 
