@@ -135,6 +135,8 @@ OMES 是一款产品化 + 本地化部署的工业设备运营管理平台，旨
 
 ![设备实时在线](admin-equip.png)
 ![设备卡片详情](admin-equip-1.png)
+![设备运行态数据](admin-equip-2.png)
+![设备参数配置](omes/admin-equip-3.png)
 
 ##### 设备 - 动态化数据采集配置
 
@@ -144,10 +146,6 @@ OMES 是一款产品化 + 本地化部署的工业设备运营管理平台，旨
 
 ![GIS 设备分布](set-equip.png)
 ![GIS 详情视图](admin-gis-1.png)
-
-##### 设备 - 运行态数据采集
-
-![设备运行态数据](admin-equip-report.png)
 
 ##### 场景 - 配置化组态画面
 
@@ -159,17 +157,14 @@ OMES 是一款产品化 + 本地化部署的工业设备运营管理平台，旨
 ![场景数据报表](workshop-report-2.png)
 
 ##### 设备健康检测
+
 ![img.png](omes/admin-health.png)
 ![img.png](omes/admin-health2.png)
 
 ##### 设备巡检
+
 ![img.png](omes/admin-xunj.png)
 ![img.png](omes/admin-xunj2.png)
-##### 权限 - 账户与角色
-
-![账户管理](admin-account.png)
-![角色配置](admin-role.png)
-![角色权限](admin-role2.png)
 
 ##### 消息 - 系统通知与报警通知
 
@@ -178,6 +173,7 @@ OMES 是一款产品化 + 本地化部署的工业设备运营管理平台，旨
 #### OMES 智设备（微信小程序 / APP）
 
 ##### 巡检计划
+
 ![img.png](omes/app-xunj.png)
 ![img.png](omes/app-xunj2.png)
 ![img.png](omes/app-xunj3.png)
