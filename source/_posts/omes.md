@@ -1,9 +1,8 @@
 ---
 title: OMES｜产品化+本地化：中小工业项目设备管理的低成本破局之道
 tags:
-  - 工业化
+  - 工业物联网
   - OMES
-  - 设备管理
 categories:
   - [ 工业物联网 ]
 top_img: /img/top.png
