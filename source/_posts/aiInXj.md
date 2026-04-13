@@ -7,7 +7,7 @@ categories:
   - [ 工业物联网 ]
 top_img: /img/top.png
 cover: /img/ai.jpg
-date: 2026-04-04 00:00:00
+date: 2026-04-13 00:00:00
 ---
 
 ## 一、引言
